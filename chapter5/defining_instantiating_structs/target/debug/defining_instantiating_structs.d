@@ -1,0 +1,1 @@
+/home/dowie/Rust/rust-docs-tutorial/chapter5/defining_instantiating_structs/target/debug/defining_instantiating_structs: /home/dowie/Rust/rust-docs-tutorial/chapter5/defining_instantiating_structs/src/main.rs
