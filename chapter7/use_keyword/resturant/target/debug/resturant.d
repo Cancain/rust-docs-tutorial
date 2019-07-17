@@ -1,0 +1,1 @@
+/home/dowie/Rust/rust-docs-tutorial/chapter7/use_keyword/resturant/target/debug/resturant: /home/dowie/Rust/rust-docs-tutorial/chapter7/use_keyword/resturant/src/lib.rs /home/dowie/Rust/rust-docs-tutorial/chapter7/use_keyword/resturant/src/main.rs
